@@ -1,0 +1,3 @@
+Terminar esta app|false
+TErminar curso node|false
+Cocinar|true
